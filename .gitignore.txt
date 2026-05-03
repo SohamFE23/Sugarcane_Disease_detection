@@ -1,5 +1,0 @@
-.ipynb_checkpoints/
-*.pth
-*.mp4
-sugarcane-leaf-disease-dataset/
-output/
