@@ -1,0 +1,21 @@
+# Ignore dataset
+sugarcane-leaf-disease-dataset/
+
+# Ignore outputs
+output/
+
+# Ignore models
+*.pth
+
+# Ignore videos
+*.mp4
+
+# Ignore checkpoints
+.ipynb_checkpoints/
+
+# Ignore cache
+__pycache__/
+
+# Optional (images if needed)
+# *.jpg
+# *.png
